@@ -102,6 +102,7 @@ Zhnuschayutsya usted.
 Як ту матір, що вам на сміх
 Сина породила.
 
+<<<<<<< HEAD
 Katerino , serce moê !
 Lišenʹko z toboû !
 De ti v svítí podínešsâ
@@ -110,6 +111,16 @@ Hto spitaê , privítaê
 Bez milogo v svítí ?
 Batʹko , mati - čuží lûde ,
 Tâžko z nimi žiti !
+=======
+Catalina, mi corazón!
+La mama con usted!
+¿Dónde en el mundo hacer que te salgas
+Con poco huérfano?
+¿Quién pide saludar
+No querida en el mundo?
+Padre, madre - alienígena hombres,
+Es difícil vivir con ellos!
+>>>>>>> 159bbf9e64474c2338baa48f02c16d8cb1ea4c69
 
 Вичуняла Катерина,
 Одсуне кватирку,
